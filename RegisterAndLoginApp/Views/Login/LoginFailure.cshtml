@@ -1,0 +1,11 @@
+﻿@model RegisterAndLoginApp.Models.UserModel
+
+<div>
+    <h4>What a failure...</h4>
+    <hr />
+    <p>It seems you, @Model.UserName are not welcome here, and neither is your password of @Model.Password</p>
+</div>
+<div>
+    @Html.ActionLink("Edit", "Edit", new { /* id = Model.PrimaryKey */ }) |
+    <a asp-action="Index">Back to List</a>
+</div>
