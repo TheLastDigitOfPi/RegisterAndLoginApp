@@ -1,0 +1,10 @@
+﻿namespace RegisterAndLoginApp.Utility
+{
+    public interface IloggerNew
+    {
+        void Debug(string message);
+        void Info(string message);
+        void Warning(string message);
+        void Error(string message);
+    }
+}

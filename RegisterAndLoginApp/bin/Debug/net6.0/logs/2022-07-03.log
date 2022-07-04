@@ -1,0 +1,49 @@
+2022-07-03 20:51:40.5573 INFO Entering the ProcessLogin method
+2022-07-03 20:51:40.5784 INFO Parameter: Username = Testing Password = test
+2022-07-03 20:51:54.5775 INFO Login failure.
+2022-07-03 20:52:14.0000 INFO Entering the ProcessLogin method
+2022-07-03 20:52:14.0000 INFO Parameter: Username = Test2 Password = Test2
+2022-07-03 20:52:33.2629 INFO Login success.
+2022-07-03 21:06:51.9265 INFO Entering the ProcessLogin method
+2022-07-03 21:06:51.9518 INFO Parameter: Username = Testing Password = test
+2022-07-03 21:07:10.9839 INFO Login failure.
+2022-07-03 21:07:23.2622 INFO Entering the ProcessLogin method
+2022-07-03 21:07:23.2622 INFO Parameter: Username = Test4 Password = Test4
+2022-07-03 21:07:39.5620 INFO Login success.
+2022-07-03 23:02:13.0773 INFO Entering the ProcessLogin method
+2022-07-03 23:02:13.0961 INFO Parameter: Username = Testing Password = Test
+2022-07-03 23:02:39.2373 INFO Login success.
+2022-07-03 23:03:34.1974 INFO Entering the ProcessLogin method
+2022-07-03 23:03:34.1974 INFO Parameter: Username = Testing Password = test
+2022-07-03 23:03:57.8369 INFO Login success.
+2022-07-03 23:06:00.7006 INFO Entering the ProcessLogin method
+2022-07-03 23:06:00.7265 INFO Parameter: Username = Test Password = Tester
+2022-07-03 23:06:20.9808 INFO Login success.
+2022-07-03 23:12:08.6393 INFO Entering the ProcessLogin method
+2022-07-03 23:12:08.6647 INFO Parameter: Username = Testing Password = Test
+2022-07-03 23:12:26.1832 INFO Login success.
+2022-07-03 23:14:01.7460 INFO Entering the ProcessLogin method
+2022-07-03 23:14:01.7725 INFO Parameter: Username = Testing Password = Test
+2022-07-03 23:14:19.6692 INFO Login success.
+2022-07-03 23:15:30.8903 INFO Entering the ProcessLogin method
+2022-07-03 23:15:30.8903 INFO Parameter: Username = Testing Password = test
+2022-07-03 23:15:48.1543 INFO Login success.
+2022-07-03 23:20:02.6203 INFO Entering the ProcessLogin method
+2022-07-03 23:20:02.6388 INFO Parameter: Username = Bill Gates Password = dsa
+2022-07-03 23:20:26.8251 INFO Login success.
+2022-07-03 23:21:36.0309 INFO Entering the ProcessLogin method
+2022-07-03 23:21:36.0309 INFO Parameter: Username = Testing Password = test
+2022-07-03 23:21:53.1660 INFO Login success.
+2022-07-03 23:24:35.9205 INFO Entering the ProcessLogin method
+2022-07-03 23:24:35.9457 INFO Parameter: Username = Test Password = test
+2022-07-03 23:24:52.2118 INFO Login success.
+2022-07-03 23:26:49.3831 INFO Entering the ProcessLogin method
+2022-07-03 23:26:49.4081 INFO Parameter: Username = Test Password = Test
+2022-07-03 23:27:05.5827 INFO Login success.
+2022-07-03 23:36:21.8566 INFO Entering the ProcessLogin method
+2022-07-03 23:36:36.0521 INFO Parameter: Username = Test Password = test
+2022-07-03 23:36:36.0521 INFO Leaving the ProcessLogin method
+2022-07-03 23:37:40.0974 INFO Entering the ProcessLogin method
+2022-07-03 23:37:52.9997 INFO Login failure.
+2022-07-03 23:37:52.9997 INFO Parameter: Username = Test Password = Test
+2022-07-03 23:37:52.9997 INFO Leaving the ProcessLogin method

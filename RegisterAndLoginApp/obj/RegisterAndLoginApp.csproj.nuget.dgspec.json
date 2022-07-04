@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Daniel Davenport\\source\\repos\\RegisterAndLoginApp\\RegisterAndLoginApp\\RegisterAndLoginApp.csproj": {}
+    "C:\\Users\\Daniel\\Documents\\GitHub\\RegisterAndLoginApp\\RegisterAndLoginApp\\RegisterAndLoginApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Daniel Davenport\\source\\repos\\RegisterAndLoginApp\\RegisterAndLoginApp\\RegisterAndLoginApp.csproj": {
+    "C:\\Users\\Daniel\\Documents\\GitHub\\RegisterAndLoginApp\\RegisterAndLoginApp\\RegisterAndLoginApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Daniel Davenport\\source\\repos\\RegisterAndLoginApp\\RegisterAndLoginApp\\RegisterAndLoginApp.csproj",
+        "projectUniqueName": "C:\\Users\\Daniel\\Documents\\GitHub\\RegisterAndLoginApp\\RegisterAndLoginApp\\RegisterAndLoginApp.csproj",
         "projectName": "RegisterAndLoginApp",
-        "projectPath": "C:\\Users\\Daniel Davenport\\source\\repos\\RegisterAndLoginApp\\RegisterAndLoginApp\\RegisterAndLoginApp.csproj",
-        "packagesPath": "C:\\Users\\Daniel Davenport\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Daniel Davenport\\source\\repos\\RegisterAndLoginApp\\RegisterAndLoginApp\\obj\\",
+        "projectPath": "C:\\Users\\Daniel\\Documents\\GitHub\\RegisterAndLoginApp\\RegisterAndLoginApp\\RegisterAndLoginApp.csproj",
+        "packagesPath": "C:\\Users\\Daniel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Daniel\\Documents\\GitHub\\RegisterAndLoginApp\\RegisterAndLoginApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Daniel Davenport\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Daniel\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -40,9 +40,17 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Session": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[6.0.5, )"
+            },
+            "NLog": {
+              "target": "Package",
+              "version": "[5.0.1, )"
             },
             "System.Data.SqlClient": {
               "target": "Package",
@@ -67,7 +75,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }
